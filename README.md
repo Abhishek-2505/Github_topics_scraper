@@ -32,7 +32,7 @@ I'm going to scrap Github's topics page(https://github.com/topics) to know-
 
 The pictures attached below shows where(tag) we can find the required data.
 
-*Note: All the pictures attached below represent the data for the first row i.e for "3D" topic.
+<i>Note: All the pictures attached below represent the data for the first row i.e for "3D" topic.</i>
 
 
 Topics, Description and Topic_URL (Basic topics info) -
