@@ -55,6 +55,11 @@ Last_Commited(Time when last commited the repository) -
 ![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Last_updated.jpg)
 
 
-<h6>Required data files:</h6>
+<h6>Required data:</h6>
 
-To view required data(.csv) files [click here](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/tree/main/Output%20CSVs).
+Sample output:
+
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/sample_output1.png)
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/sample_output2.png)
+
+To view complete data(.csv) files [click here](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/tree/main/Output%20CSVs).
