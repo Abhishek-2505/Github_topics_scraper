@@ -29,3 +29,14 @@ I'm going to scrap Github's topics page(https://github.com/topics) to know-
 <h6>Resources used:</h6>
 Python, Pandas, BeautifulSoup, Requests
 
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Topic_info.jpg)
+
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/repo_info.jpg)
+
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Stars.jpg)
+
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Forks.jpg)
+
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Commits.jpg)
+
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Last_updated.jpg)
