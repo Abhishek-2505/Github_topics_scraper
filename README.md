@@ -23,3 +23,8 @@ I'm going to scrap Github's topics page(https://github.com/topics) to know-
 |--|--|--|--|--|--|--|--|--|--|
 |3D|--descr--|https://github.com/topics/3d| three.js|mrdoob |https://github.com/mrdoob/three.js |73300| 28708|37892|2021-08-07T10:36:49Z|
 |||||||||||
+
+<h6>Resources used:</h6>
+Python, Pandas, BeautifulSoup, Requests
+
+![Screenshot%20%282373%29_LI.jpg](attachment:Screenshot%20%282373%29_LI.jpg)
