@@ -28,18 +28,18 @@ I'm going to scrap Github's topics page(https://github.com/topics) to know-
 
 <h6>Resources used:</h6> Python, Pandas, BeautifulSoup, Requests
 
-## Data Extraction:
+## Data Locating:
 
 The pictures attached below shows where(tag) we can find the required data.
 
 <i>Note: All the pictures attached below represent the data for the first row i.e for "3D" topic.</i>
 
 
-Topics, Description and Topic_URL (Basic topics info) -
+Topics, Description and Topic_URL (Basic topics information) -
 ![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Topic_info.jpg)
 
-Popular_Repository, Username -
-![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/repo_info.jpg)
+Popular_Repository, Username (Basic repository information)-
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Repository_info.jpg)
 
 Number_Of_Stars(for each popular repository) -
 ![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Stars.jpg)
