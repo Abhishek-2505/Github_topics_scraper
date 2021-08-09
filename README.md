@@ -1,5 +1,7 @@
 # Github Topics Details -Web scraping : Project Overview
 
+![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/web%20scraping%20pic.jpg)
+
 ## Introduction:
 
 Web scraping is the process of parsing and extracting data from the websites. It is very useful when we want to collect data from the websites for our work. 
@@ -27,4 +29,3 @@ I'm going to scrap Github's topics page(https://github.com/topics) to know-
 <h6>Resources used:</h6>
 Python, Pandas, BeautifulSoup, Requests
 
-![Screenshot%20%282373%29_LI.jpg](attachment:Screenshot%20%282373%29_LI.jpg)
