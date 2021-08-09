@@ -34,6 +34,7 @@ The pictures attached below shows where(tag) we can find the required data.
 
 *Note: All the pictures attached below represent the data for the first row i.e for "3D" topic.
 
+
 Topics, Description and Topic_URL (Basic topics info) -
 ![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Topic_info.jpg)
 
@@ -47,6 +48,7 @@ Forked_Count(Number of times forked that repository) -
 ![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Forks.jpg)
 
 Total_Commits(Number of times commited) - 
+
 ![](https://github.com/Abhishek-2505/Github-Topics-Details-Web-scraping/blob/main/images/Commits.jpg)
 
 Last_Commited(Time when last commited the repository) -
