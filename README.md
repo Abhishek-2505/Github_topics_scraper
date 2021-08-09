@@ -16,3 +16,10 @@ I'm going to scrap Github's topics page(https://github.com/topics) to know-
         * number of times forked.
         * number of times commited.
         * last commited time.
+
+<h6>Required data format:</h6>
+
+|Topics|Descripton|Topic_URL|Popular_Repository|Username|Repository_URL|Number_Of_Stars|Forked_Count|Total_commits|Last_Commited|
+|--|--|--|--|--|--|--|--|--|--|
+|3D|--descr--|https://github.com/topics/3d| three.js|mrdoob |https://github.com/mrdoob/three.js |73300| 28708|37892|2021-08-07T10:36:49Z|
+|||||||||||
