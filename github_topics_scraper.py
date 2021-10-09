@@ -10,7 +10,8 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import math
-from tqdm import tqdm
+#from tqdm.notebook import tqdm #(for Jupyter notebook)
+from tqdm import tqdm   # for all other IDEs
 
 def github_topics_scraper(detailed=False, records=True):
     
