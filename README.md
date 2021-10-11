@@ -1,6 +1,6 @@
 # GitHub Topics Scraper : Project Overview
 
-Note: You can find the explanation of the entire source code [here](https://medium.com/@abhishekdundagi06/building-web-scraper-using-python-scraping-github-topics-in-one-go-b553a0bf58d)
+*Note: You can read [this blog post](https://medium.com/@abhishekdundagi06/building-web-scraper-using-python-scraping-github-topics-in-one-go-b553a0bf58d) to understand how to build a scraper.
 
 ## Introduction:
 
