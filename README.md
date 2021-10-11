@@ -20,3 +20,6 @@ I have built a scraper i.e., [Github_topics_scraper](https://github.com/Abhishek
 
 By default the function gives non-detailed, single record on GitHub topics.
 
+## Detailed v/s non-detailed data frames:
+
+
