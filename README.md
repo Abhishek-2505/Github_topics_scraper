@@ -10,6 +10,11 @@ GitHub is web-based version control and collaboration platform for software deve
 
 I have built a scraper i.e., [Github_topics_scraper](https://github.com/Abhishek-2505/Github_topics_scraper/blob/main/github_topics_scraper.py) which scrapes the [GitHub Topics](https://github.com/topics) webpage. This scraper can return, either detailed or non-detailed data frame based on the user preferences. 
 
+## Tools Used:
+
+Programming Language: Python
+Python Packages: [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Requests](https://docs.python-requests.org/en/latest/), [Pandas](https://pandas.pydata.org/docs/), [Math](https://docs.python.org/3/library/math.html) and [tqdm](https://tqdm.github.io/).
+
 ## The scraper function : github_topics_scraper() 
 
 <code>github_topics_scraper()</code>, the scraper function, takes two optional arguments, <code>detailed</code> and <code>records</code>.
