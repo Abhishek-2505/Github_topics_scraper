@@ -90,10 +90,10 @@ def github_topics_scraper(detailed=False, records=True):
                 pr_soup1 = BeautifulSoup(r.text,'html.parser')  # creating beautiful soup object
                 
                 # popular repo name, usernam and URL, loacted in a-tag of first h3-tag
-                h3_tags = pr_soup1.find_all('h3',{'class':'f3 color-text-secondary text-normal lh-condensed'}, limit=1)
+                h3_tags = pr_soup1.find_all('h3',{'class':'f3 color-fg-muted text-normal lh-condensed'}, limit=1)
                 atags = h3_tags[0].find_all('a')
                 
-                # extracting popular repo name, usernam and URL
+                # extracting popular repo name, username and URL
                 pop_repo_name = atags[1].text.strip()               # repo name
                 pr_username = atags[0].text.strip()                 # repo username
                 pr_url ='https://github.com' + atags[1]['href']     # repo URL     
