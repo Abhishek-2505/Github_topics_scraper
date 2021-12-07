@@ -22,7 +22,7 @@ Python Packages: [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/b
 
 * The argument <code>records</code> represents the number of records user want. It can take either Boolean(True/False) or integer inputs. It should be set to “False” to return all the possible records.
 
-* The argument <code>detailed<code> takes Boolean(True/False) inputs and returns detailed data frame if set to "True" else returns non detailed data frame. 
+* The argument <code>detailed</code> takes Boolean(True/False) inputs and returns detailed data frame if set to "True" else returns non detailed data frame. 
 
 By default the function returns non-detailed data frame with single record.
 
