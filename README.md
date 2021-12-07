@@ -32,10 +32,11 @@ As mentioned above, the scraper function can return either detailed or non-detai
 
 When the "detailed" argument in the scraper function is set to "True", we get a dataframe which looks something like this -
 
-![alt](https://github.com/Abhishek-2505/project_images/blob/main/github_topics_webscraping/colum_description.png)
+![alt](https://github.com/Abhishek-2505/project_images/blob/main/github_topics_webscraping/demo_dataframe.png)
 
 The columns in the above data frame represents - 
 
+![alt](https://github.com/Abhishek-2505/project_images/blob/main/github_topics_webscraping/colum_description.png)
 
 When the "detailed" argument in the scraper function is set to "False", we get a non-detailed dataframe which consists of only the first 3 columns. This dataframe contains the basic information of the topics on the GitHub topics webpage.
 
