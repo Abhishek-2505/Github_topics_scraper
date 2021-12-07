@@ -8,7 +8,7 @@
 
 GitHub is web-based version control and collaboration platform for software developers. It has a page https://github.com/topics where we can find different topics listed on GitHub.
 
-I have built a scraper i.e., [Github_topics_scraper](https://github.com/Abhishek-2505/Github_topics_scraper/blob/main/github_topics_scraper.py) which scrapes the [GitHub Topics](https://github.com/topics) webpage. This scraper can return, either detailed or non-detailed data frame based on the user preferences. 
+I have built a scraper i.e., [Github_topics_scraper](https://github.com/Abhishek-2505/Github_topics_scraper/blob/main/github_topics_scraper.py) which scrapes the [GitHub Topics](https://github.com/topics) webpage. This scraper can return, either detailed or non-detailed dataframe based on the user preferences. 
 
 ## Tools Used:
 
@@ -22,10 +22,23 @@ Python Packages: [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/b
 
 * The argument <code>records</code> represents the number of records user want. It can take either Boolean(True/False) or integer inputs. It should be set to “False” to return all the possible records.
 
-* The argument <code>detailed</code> takes Boolean(True/False) inputs and returns detailed data frame if set to "True" else returns non detailed data frame. 
+* The argument <code>detailed</code> takes Boolean(True/False) inputs and returns detailed data frame if set to "True" else returns non detailed dataframe. 
 
 By default the function returns non-detailed data frame with single record.
 
-## Detailed v/s non-detailed data frames:
+## Detailed v/s non-detailed dataframes:
 
-As mentioned above, the scraper function can return either detailed or non-detailed data frame. 
+As mentioned above, the scraper function can return either detailed or non-detailed dataframe. 
+
+When the "detailed" argument in the scraper function is set to "True", we get a dataframe which looks something like this -
+
+![alt](https://github.com/Abhishek-2505/project_images/blob/main/github_topics_webscraping/colum_description.png)
+
+The columns in the above data frame represents - 
+
+
+When the "detailed" argument in the scraper function is set to "False", we get a non-detailed dataframe which consists of only the first 3 columns. This dataframe contains the basic information of the topics on the GitHub topics webpage.
+
+## tqdm - Progress bar
+
+Web scraping is a time consuming process and sometimes we can't understand whether the scraping is in progress or not. So I have used tqdm progress bar to view the progress of scraping. It is very helpful specially in case of detailed scraping.
