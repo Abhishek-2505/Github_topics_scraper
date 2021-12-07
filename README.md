@@ -44,4 +44,7 @@ When the "detailed" argument in the scraper function is set to "False", we get a
 
 Web scraping is a time consuming process and sometimes we can't understand whether the scraping is in progress or not. So I have used tqdm progress bar to view the progress of scraping. It is very helpful specially in case of detailed scraping.
 
+The progress of web scraping looks like this-
 ![alt](https://github.com/Abhishek-2505/project_images/blob/main/github_topics_webscraping/progress_bar.png)
+
+![alt](https://github.com/Abhishek-2505/project_images/blob/main/github_topics_webscraping/progress_completion.png)
