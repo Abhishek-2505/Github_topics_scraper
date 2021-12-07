@@ -4,7 +4,7 @@
 
 ## Introduction:
 
-*Web scraping* is the process of parsing and extracting data from the websites. It is very useful when we want to collect data from the websites for our work. 
+*Web scraping* is the process of parsing and extracting data from the websites. It is useful techinque when we want to collect data from the websites for our work. 
 
 GitHub is web-based version control and collaboration platform for software developers. It has a page https://github.com/topics where we can find different topics listed on GitHub.
 
@@ -22,10 +22,10 @@ Python Packages: [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/b
 
 * The argument <code>records</code> represents the number of records user want. It can take either Boolean(True/False) or integer inputs. It should be set to “False” to return all the possible records.
 
-* The argument <code>detailed</code> is basically the data frame the user want, detailed or non-detailed. It takes Boolean(True/False) input. 
+* The argument <code>detailed<code> takes Boolean(True/False) inputs and returns detailed data frame if set to "True" else returns non detailed data frame. 
 
-By default the function gives non-detailed, single record on GitHub topics.
+By default the function returns non-detailed data frame with single record.
 
 ## Detailed v/s non-detailed data frames:
 
-
+As mentioned above, the scraper function can return either detailed or non-detailed data frame. 
